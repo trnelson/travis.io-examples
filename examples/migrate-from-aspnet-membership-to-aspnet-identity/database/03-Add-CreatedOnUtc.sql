@@ -1,0 +1,3 @@
+ALTER TABLE AspNetUsers 
+ADD CreatedOnUtc DateTime2 NULL 
+CONSTRAINT DF_AspNetUsers_CreatedOnUtc DEFAULT SYSUTCDATETIME()
