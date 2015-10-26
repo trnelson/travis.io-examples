@@ -1,4 +1,4 @@
-# Example files from "Migrating from ASP.NET Membership to ASP.NET Identity"
+# Migrating from ASP.NET Membership to ASP.NET Identity
 
 http://travis.io/blog/2015/03/24/migrate-from-aspnet-membership-to-aspnet-identity/
 
